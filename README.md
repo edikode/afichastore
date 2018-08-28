@@ -1,2 +1,2 @@
 # Afichastore
-Project toko online aficha store banyuwangi (Laravel 5.6)
+Project toko online aficha store banyuwangi ( Laravel 5.6 )
